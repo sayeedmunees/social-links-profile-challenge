@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/sayeedmunees/social-links-profile-challenge)
+
+- Live Site URL: [Click here](https://sayeedmunees.github.io/social-links-profile-challenge/)
 
 ## My process
 
@@ -41,9 +42,9 @@ Users should be able to:
 
 ### What I learned
 
-Throughout this project, I've discovered the transformative power of Flexbox in crafting responsive layouts, providing a seamless experience across various devices. Transitioning from inline-block elements to Flexbox has not only streamlined the design process but also mitigated layout inconsistencies. Furthermore, implementing subtle box-shadow transitions upon hover has elevated the aesthetics and interactivity of the interface, enhancing user engagement.
+Transitioning from inline-block elements to Flexbox has not only streamlined the design process but also mitigated layout inconsistencies.
 
-Here's a snippet demonstrating the use of Flexbox
+Here's a snippet demonstrating the use of Flexbox:
 
 ```css
 #profile-details-container {
